@@ -1,3 +1,4 @@
+
 # Linksammlung
 
 
@@ -8,3 +9,7 @@ https://poiplaza.com
 ## Strom
 immer den günstigsten Stromanbieter (Gasanbieter)
 https://www.cheapenergy24.de
+
+## Mac
+Akkuszustand vom Mac und iPhone
+http://www.coconut-flavour.com/coconutbattery/#plus
